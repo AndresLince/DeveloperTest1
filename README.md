@@ -1,6 +1,3 @@
-# Truora
-Test for truora
-
 #Comandos para ejecutar adentro de la carpeta de frontend
 
 npm install
